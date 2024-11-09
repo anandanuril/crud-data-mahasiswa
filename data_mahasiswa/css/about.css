@@ -1,0 +1,12 @@
+.navbar-brand {
+    font-family: 'Righteous', cursive;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebucket MS', sans-serif;
+    background-color: #f8fcfc;
+}
+
+footer {
+    padding: 10px 0;
+}

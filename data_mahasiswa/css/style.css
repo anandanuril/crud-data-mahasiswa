@@ -1,0 +1,47 @@
+.navbar-brand{
+    font-family: 'Righteous', cursive;
+}
+
+.nav-link.data {
+    color: white !important;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebucket MS', sans-serif;
+    background-color: #f8fcfc;
+}
+
+footer {
+    padding: 8px, 0;
+}
+
+.bg-dark-custom {
+    background-color: #343a40 !important;
+}
+
+.text-white-custom {
+    color: #ffffff !important;
+}
+
+th {
+    text-align: center;
+}
+
+.table-actions {
+    text-align: center;
+}
+
+.table thead th {
+    background-color: #343a40;
+    color: #ffffff;
+    border-color: #dee2e6;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.text-center-bg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
